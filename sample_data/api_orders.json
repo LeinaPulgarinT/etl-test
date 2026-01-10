@@ -1,0 +1,298 @@
+[
+    {
+        "order_id": "o_1001",
+        "user_id": "u_1",
+        "amount": 120.00,
+        "currency": "USD",
+        "created_at": "2025-08-20T15:23:10Z",
+        "items": [
+            {
+                "sku": "p_1",
+                "qty": 2,
+                "price": 60.0
+            }
+        ],
+        "metadata": {
+            "source": "api",
+            "promo": null
+        }
+    },
+    {
+        "order_id": "o_1002",
+        "user_id": "u_2",
+        "amount": 75.00,
+        "currency": "USD",
+        "created_at": "2025-08-20T11:00:00Z",
+        "items": [
+            {
+                "sku": "p_2",
+                "qty": 1,
+                "price": 75.0
+            }
+        ],
+        "metadata": {
+            "source": "api",
+            "promo": "WELCOME10"
+        }
+    },
+    {
+        "order_id": "o_1003",
+        "user_id": "u_3",
+        "amount": 50.00,
+        "currency": "USD",
+        "created_at": "2025-08-20T12:00:00Z",
+        "items": [
+            {
+                "sku": "p_3",
+                "qty": 1,
+                "price": 50.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": null
+        }
+    },
+    {
+        "order_id": "o_1004",
+        "user_id": "u_4",
+        "amount": 200.00,
+        "currency": "USD",
+        "created_at": "2025-08-21T09:00:00Z",
+        "items": [
+            {
+                "sku": "p_4",
+                "qty": 4,
+                "price": 50.0
+            }
+        ],
+        "metadata": {
+            "source": "api",
+            "promo": "SUMMER"
+        }
+    },
+    {
+        "order_id": "o_1005",
+        "user_id": "u_5",
+        "amount": 90.00,
+        "currency": "USD",
+        "created_at": "2025-08-21T10:00:00Z",
+        "items": [
+            {
+                "sku": "p_1",
+                "qty": 1,
+                "price": 90.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": "SUMMER"
+        }
+    },
+    {
+        "order_id": "o_1006",
+        "user_id": "u_1",
+        "amount": 150.00,
+        "currency": "USD",
+        "created_at": "2025-08-21T11:30:00Z",
+        "items": [
+            {
+                "sku": "p_2",
+                "qty": 2
+            }
+        ],
+        "metadata": {
+            "source": "api"
+        }
+    },
+    {
+        "order_id": "o_1007",
+        "user_id": "u_2",
+        "amount": 40.00,
+        "currency": "USD",
+        "created_at": "2025-08-22T08:00:00Z",
+        "items": [
+            {
+                "sku": "p_3",
+                "qty": 1,
+                "price": 40.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": null
+        }
+    },
+    {
+        "order_id": "o_1008",
+        "user_id": "u_3",
+        "amount": 60.00,
+        "currency": "USD",
+        "created_at": "2025-08-22T09:00:00Z",
+        "items": [],
+        "metadata": {
+            "source": "api"
+        }
+    },
+    {
+        "order_id": "o_1009",
+        "user_id": "u_4",
+        "amount": 110.00,
+        "currency": "USD",
+        "created_at": null,
+        "items": [
+            {
+                "sku": "p_4",
+                "qty": 2,
+                "price": 55.0
+            }
+        ]
+    },
+    {
+        "order_id": "o_1010",
+        "user_id": "u_5",
+        "amount": 300.00,
+        "currency": "USD",
+        "created_at": "2025-08-22T10:30:00Z",
+        "items": [
+            {
+                "sku": "p_5",
+                "qty": 3,
+                "price": 100.0
+            }
+        ],
+        "metadata": {
+            "source": "api"
+        }
+    },
+    {
+        "order_id": "o_1010",
+        "user_id": "u_5",
+        "amount": 300.00,
+        "currency": "USD",
+        "created_at": "2025-08-22T10:30:00Z",
+        "items": [
+            {
+                "sku": "p_5",
+                "qty": 3,
+                "price": 100.0
+            }
+        ],
+        "metadata": {
+            "source": "api"
+        }
+    },
+    {
+        "order_id": "o_1011",
+        "user_id": "u_1",
+        "amount": 85.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T09:00:00Z",
+        "items": [
+            {
+                "sku": "p_2",
+                "qty": 1,
+                "price": 85.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": "WELCOME10"
+        }
+    },
+    {
+        "order_id": "o_1012",
+        "user_id": "u_2",
+        "amount": 130.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T10:00:00Z",
+        "items": [
+            {
+                "sku": "p_3",
+                "qty": 2,
+                "price": 65.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": "SUMMER"
+        }
+    },
+    {
+        "order_id": "o_1013",
+        "user_id": "u_3",
+        "amount": 95.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T11:00:00Z",
+        "items": [
+            {
+                "sku": "p_1",
+                "qty": 1,
+                "price": 95.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": null
+        }
+    },
+    {
+        "order_id": "o_1014",
+        "user_id": "u_4",
+        "amount": 180.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T12:00:00Z",
+        "items": [
+            {
+                "sku": "p_4",
+                "qty": 3,
+                "price": 60.0
+            }
+        ],
+                "metadata": {
+            "source": "api",
+            "promo": null
+        }
+    },
+    {
+        "order_id": "o_1015",
+        "user_id": "u_5",
+        "amount": 70.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T13:00:00Z",
+        "items": [
+            {
+                "sku": "p_5",
+                "qty": 1
+            }
+        ]
+    },
+        {
+        "order_id": "o_1016",
+        "user_id": "u_6",
+        "amount": 180.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T12:00:00Z",
+        "items": [
+            {
+                "sku": "p_4",
+                "qty": 3,
+                "price": 60.0
+            }
+        ]
+    },
+    {
+        "order_id": "o_1017",
+        "user_id": "u_4",
+        "amount": 180.00,
+        "currency": "USD",
+        "created_at": "2025-08-23T12:00:00Z",
+        "items": [
+            {
+                "sku": "p_1",
+                "qty": 3,
+                "price": 60.0
+            }
+        ]
+    }
+]
