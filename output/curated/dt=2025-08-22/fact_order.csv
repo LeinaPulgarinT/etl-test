@@ -1,0 +1,3 @@
+order_id,user_id,sku,qty,item_price,order_amount,currency,created_at_order,source,promo,email,country,created_at_user,name,category,price
+o_1007,u_2,p_3,1,40.0,40.0,USD,2025-08-22 08:00:00+00:00,api,,alejandro.benitez@gmail.com,MX,2025-03-01,Headphones,Electronics,65.0
+o_1010,u_5,p_5,3,100.0,300.0,USD,2025-08-22 10:30:00+00:00,api,,stepahnnypts@gmail.com,US,2026-01-10,Monitor,Electronics,100.0

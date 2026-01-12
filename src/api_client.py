@@ -32,12 +32,3 @@ def fetch_orders(since=None, retries=3) -> list:
 
 if __name__ == "__main__":
     print(fetch_orders(since="2023-01-01T00:00:00Z"))
-
-
-"""
-1. __file__: gives us the path of the current file. Eg. /home/leinapulgarin/Documents/technical_tests/juju/data-engineering-pipeline-juju/./etl-test/src/api_client.py
-2. os.path.abspath(__file__): gives us the absolute path of the current file. Eg. /home/leinapulgarin/Documents/technical_tests/juju/data-engineering-pipeline-juju/etl-test/src/api_client.py
-3. os.path.dirname(os.path.abspath(__file__)): give as the directory path of the current file. Eg. /home/leinapulgarin/Documents/technical_tests/juju/data-engineering-pipeline-juju/etl-test/src
-4. os.path.join(..., "..", "sample_data", "api_orders.json"): constructs the path to the JSON file by going up one directory and into sample_data. Eg. /home/leinapulgarin/Documents/technical_tests/juju/data-engineering-pipeline-juju/etl-test/src/../sample_data/api_orders.json
-5. os.path.normpath(...): normalizes the path. Eg: /home/leinapulgarin/Documents/technical_tests/juju/data-engineering-pipeline-juju/etl-test/sample_data/api_orders.json
-"""

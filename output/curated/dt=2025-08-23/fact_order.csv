@@ -1,0 +1,8 @@
+order_id,user_id,sku,qty,item_price,order_amount,currency,created_at_order,source,promo,email,country,created_at_user,name,category,price
+o_1011,u_1,p_2,1,85.0,85.0,USD,2025-08-23 09:00:00+00:00,api,WELCOME10,camila.cifuentes@gmail.com,CO,2025-05-02,Keyboard,Electronics,75.0
+o_1012,u_2,p_3,2,65.0,130.0,USD,2025-08-23 10:00:00+00:00,api,SUMMER,alejandro.benitez@gmail.com,MX,2025-03-01,Headphones,Electronics,65.0
+o_1013,u_3,p_1,1,95.0,95.0,USD,2025-08-23 11:00:00+00:00,api,,tamat65@gmail.com,EC,2024-05-12,Mouse,Electronics,60.0
+o_1014,u_4,p_4,3,60.0,180.0,USD,2025-08-23 12:00:00+00:00,api,,pitter324@gmail.com,US,2022-12-15,Camera,Electronics,50.0
+o_1015,u_5,p_5,1,0.0,70.0,USD,2025-08-23 13:00:00+00:00,,,stepahnnypts@gmail.com,US,2026-01-10,Monitor,Electronics,100.0
+o_1016,u_6,p_4,3,60.0,180.0,USD,2025-08-23 18:00:00+00:00,,,marcus_34232@gmail.com,US,2025-04-02,Camera,Electronics,50.0
+o_1017,u_4,p_1,3,60.0,180.0,USD,2025-08-23 22:00:00+00:00,,,pitter324@gmail.com,US,2022-12-15,Mouse,Electronics,60.0

@@ -4,6 +4,9 @@
 venv/
 .venv/
 
+# IDEs
+.idea/
+.vscode/
 
 # Pytho
 __pycache__/

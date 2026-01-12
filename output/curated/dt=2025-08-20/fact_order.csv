@@ -1,0 +1,5 @@
+order_id,user_id,sku,qty,item_price,order_amount,currency,created_at_order,source,promo,email,country,created_at_user,name,category,price
+o_1001,u_1,p_1,2,60.0,125.5,USD,2025-08-20 15:23:10+00:00,api,,camila.cifuentes@gmail.com,CO,2025-05-02,Mouse,Electronics,60.0
+o_1002,u_2,p_2,1,75.0,195.0,USD,2025-08-20 16:00:00+00:00,api,WELCOME10,alejandro.benitez@gmail.com,MX,2025-03-01,Keyboard,Electronics,75.0
+o_1002,u_2,p_1,2,60.0,195.0,USD,2025-08-20 16:00:00+00:00,api,WELCOME10,alejandro.benitez@gmail.com,MX,2025-03-01,Mouse,Electronics,60.0
+o_1003,u_3,p_3,1,50.0,50.0,USD,2025-08-20 16:20:00+00:00,api,,tamat65@gmail.com,EC,2024-05-12,Headphones,Electronics,65.0

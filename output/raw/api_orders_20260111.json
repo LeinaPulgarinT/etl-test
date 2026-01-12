@@ -2,7 +2,7 @@
     {
         "order_id": "o_1001",
         "user_id": "u_1",
-        "amount": 125.50,
+        "amount": 125.5,
         "currency": "USD",
         "created_at": "2025-08-20T15:23:10Z",
         "items": [
@@ -20,7 +20,7 @@
     {
         "order_id": "o_1002",
         "user_id": "u_2",
-        "amount": 195.00,
+        "amount": 195.0,
         "currency": "USD",
         "created_at": "2025-08-20T16:00:00Z",
         "items": [
@@ -43,7 +43,7 @@
     {
         "order_id": "o_1003",
         "user_id": "u_3",
-        "amount": 50.00,
+        "amount": 50.0,
         "currency": "USD",
         "created_at": "2025-08-20T16:20:00Z",
         "items": [
@@ -61,7 +61,7 @@
     {
         "order_id": "o_1004",
         "user_id": "u_4",
-        "amount": 200.00,
+        "amount": 200.0,
         "currency": "USD",
         "created_at": "2025-08-21T09:00:00Z",
         "items": [
@@ -79,7 +79,7 @@
     {
         "order_id": "o_1005",
         "user_id": "u_5",
-        "amount": 90.00,
+        "amount": 90.0,
         "currency": "USD",
         "created_at": "2025-08-21T10:00:00Z",
         "items": [
@@ -97,7 +97,7 @@
     {
         "order_id": "o_1006",
         "user_id": "u_1",
-        "amount": 150.00,
+        "amount": 150.0,
         "currency": "USD",
         "created_at": "2025-08-21T11:30:00Z",
         "items": [
@@ -113,7 +113,7 @@
     {
         "order_id": "o_1007",
         "user_id": "u_2",
-        "amount": 40.00,
+        "amount": 40.0,
         "currency": "USD",
         "created_at": "2025-08-22T08:00:00Z",
         "items": [
@@ -131,7 +131,7 @@
     {
         "order_id": "o_1008",
         "user_id": "u_3",
-        "amount": 60.00,
+        "amount": 60.0,
         "currency": "USD",
         "created_at": "2025-08-22T09:00:00Z",
         "items": [],
@@ -142,7 +142,7 @@
     {
         "order_id": "o_1009",
         "user_id": "u_4",
-        "amount": 110.00,
+        "amount": 110.0,
         "currency": "USD",
         "created_at": null,
         "items": [
@@ -156,7 +156,7 @@
     {
         "order_id": "o_1010",
         "user_id": "u_5",
-        "amount": 300.00,
+        "amount": 300.0,
         "currency": "USD",
         "created_at": "2025-08-22T10:30:00Z",
         "items": [
@@ -173,7 +173,7 @@
     {
         "order_id": "o_1010",
         "user_id": "u_5",
-        "amount": 300.00,
+        "amount": 300.0,
         "currency": "USD",
         "created_at": "2025-08-22T10:30:00Z",
         "items": [
@@ -190,7 +190,7 @@
     {
         "order_id": "o_1011",
         "user_id": "u_1",
-        "amount": 85.00,
+        "amount": 85.0,
         "currency": "USD",
         "created_at": "2025-08-23T09:00:00Z",
         "items": [
@@ -208,7 +208,7 @@
     {
         "order_id": "o_1012",
         "user_id": "u_2",
-        "amount": 130.00,
+        "amount": 130.0,
         "currency": "USD",
         "created_at": "2025-08-23T10:00:00Z",
         "items": [
@@ -226,7 +226,7 @@
     {
         "order_id": "o_1013",
         "user_id": "u_3",
-        "amount": 95.00,
+        "amount": 95.0,
         "currency": "USD",
         "created_at": "2025-08-23T11:00:00Z",
         "items": [
@@ -244,7 +244,7 @@
     {
         "order_id": "o_1014",
         "user_id": "u_4",
-        "amount": 180.00,
+        "amount": 180.0,
         "currency": "USD",
         "created_at": "2025-08-23T12:00:00Z",
         "items": [
@@ -262,7 +262,7 @@
     {
         "order_id": "o_1015",
         "user_id": "u_5",
-        "amount": 70.00,
+        "amount": 70.0,
         "currency": "USD",
         "created_at": "2025-08-23T13:00:00Z",
         "items": [
@@ -275,7 +275,7 @@
     {
         "order_id": "o_1016",
         "user_id": "u_6",
-        "amount": 180.00,
+        "amount": 180.0,
         "currency": "USD",
         "created_at": "2025-08-23T18:00:00Z",
         "items": [
@@ -289,7 +289,7 @@
     {
         "order_id": "o_1017",
         "user_id": "u_4",
-        "amount": 180.00,
+        "amount": 180.0,
         "currency": "USD",
         "created_at": "2025-08-23T22:00:00Z",
         "items": [

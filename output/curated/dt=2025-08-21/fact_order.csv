@@ -1,0 +1,4 @@
+order_id,user_id,sku,qty,item_price,order_amount,currency,created_at_order,source,promo,email,country,created_at_user,name,category,price
+o_1004,u_4,p_4,4,50.0,200.0,USD,2025-08-21 09:00:00+00:00,api,SUMMER,pitter324@gmail.com,US,2022-12-15,Camera,Electronics,50.0
+o_1005,u_5,p_1,1,90.0,90.0,USD,2025-08-21 10:00:00+00:00,api,SUMMER,stepahnnypts@gmail.com,US,2026-01-10,Mouse,Electronics,60.0
+o_1006,u_1,p_2,2,0.0,150.0,USD,2025-08-21 11:30:00+00:00,api,,camila.cifuentes@gmail.com,CO,2025-05-02,Keyboard,Electronics,75.0
