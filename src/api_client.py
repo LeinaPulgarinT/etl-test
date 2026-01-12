@@ -29,6 +29,3 @@ def fetch_orders(since=None, retries=3) -> list:
                 
     raise RuntimeError("Failed to fetch orders after multiple retries.")
 
-
-if __name__ == "__main__":
-    print(fetch_orders(since="2023-01-01T00:00:00Z"))
