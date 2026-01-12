@@ -46,10 +46,12 @@ all: install test run
 	@echo "------------------------------------------------"
 
 # clean
+# 	rm -rf output/*
 .PHONY: clean
 clean:
 	rm -rf $(VENV_NAME)
 	rm -rf output/*
+	rm -rf .idea
 	find . -type d -name "__pycache__" -exec rm -rf {} +
 	find . -type d -name ".pytest_cache" -exec rm -rf {} +
 	@echo "Project cleaned (virtualenv, outputs and cache removed)"
